@@ -1,0 +1,28 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align:justify;
+    border-color:tomato;
+    border-radius: 0vi;
+    border-style: double;
+    font-size: larger;
+}
+
+.header {
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+	color:chocolate;
+	margin-top: 5rem;
+	margin-bottom: 2rem;
+    font-style:oblique;
+}
+
+.button {
+	display: inline-block;
+	background-color:black;
+	color:aliceblue;
+	padding: 1rem 2rem;
+	text-decoration: none;
+	border-radius: 4px;
+	margin-top: 2rem;
+}
